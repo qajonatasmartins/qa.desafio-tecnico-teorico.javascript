@@ -11,7 +11,7 @@
 
 ### Casos de testes
 
-Deve automatizar os seguintes casos de testes
+Deve automatizar os seguintes casos de testes. [Link com o passo a passo dos CTs](https://automationexercise.com/test_cases)
 
 - [ ] Test Case 1: Register User
 - [ ] Test Case 9: Search Product

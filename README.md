@@ -36,7 +36,7 @@ Deve automatizar os seguintes casos de teste. [Link com o passo a passo dos CTs]
 
 ### Como entregar o desafio
 
-- Criar um repositório no GitHub com o nome 'qa.automationexercise-web.webdriverio'
+- Criar um repositório no GitHub com o nome `qa.automationexercise-web.webdriverio`
 - Enviar o link do repositório público via e-mail
 
 ## API
@@ -79,5 +79,5 @@ Obs.: Fique à vontade para realizar as validações que considerar necessárias
 
 ### Entregável
 
-- Criar um repositório no GitHub com o nome 'qa.automationexercise-api.pactumjs'
+- Criar um repositório no GitHub com o nome `qa.automationexercise-api.pactumjs`
 - Enviar o link do repositório público via e-mail

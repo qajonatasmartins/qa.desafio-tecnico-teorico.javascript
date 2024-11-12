@@ -61,7 +61,7 @@ Com isso, foram definidos os seguintes requisitos funcionais (comportamentos):
 
 ###### Como entregar o desafio
 
-- Criar um repositório no GitHub com o nome `qa.bdd-mocha.javascript`
+- Criar um repositório no GitHub com o nome `qa.bdd-cucumberjs.javascript`
 - Criar a classe `Pessoa` em javascript que contenha o método `ehMaiorDeIdade(idade)` que será testado.
 - Criar um arquivo `pessoa.feature` com os comportamentos descritos em gherkin declarativo dos cenários a serem automatizados
 - Usando a biblioteca do [cucumber.js](https://cucumber.io/docs/installation/javascript/), crie todos os testes unitários necessários para esses dois requisitos (comportamentos)
